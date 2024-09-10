@@ -1,0 +1,6 @@
+{   
+    "mmdet_config": "/media/my_ftp/TFTs/amoure/TFM_MUIT/src/pretrained_models/overwrite_custom_data.py",
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "epochs": 2
+}

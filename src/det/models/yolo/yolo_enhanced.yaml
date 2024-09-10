@@ -1,0 +1,6 @@
+path: /media/my_ftp/BasesDeDatos_Torax_RX_CT/COVID19_CT/processed/object_detection/yolo_annotations
+train: images_enhanced/train/
+val: images_enhanced/val/
+
+names:
+  0: covid

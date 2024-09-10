@@ -1,0 +1,1 @@
+cd /media/my_ftp/BasesDeDatos_Torax_RX_CT/COVID19_CT
