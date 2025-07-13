@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` tailored for your repo, summarizing your paper and making it easy for new users to understand, cite, and run the main training functionalities. Please adapt sections as your repo evolves.
-
----
-
 # Bayesian Screening and Explainable Localization of Lung Lesions from CT Scans
 
 **Author:** Álvaro Moure Prado  
