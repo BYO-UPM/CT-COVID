@@ -24,11 +24,6 @@ Key contributions:
 - **Methodological innovation:** Introduces a fusion strategy to merge overlapping bounding boxes, improving localization of scattered lesions.
 
 Experiments were conducted on ~90,000 CT images from public COVID-19, bacterial, fungal, viral pneumonia datasets and controls.  
-- **Screening Accuracy for COVID-19:** up to 94.61%  
-- **Lesion Localization mAP50:** 0.5559  
-- **Models:** Bayesian DenseNet121, YOLOv8, Cascade R-CNN, RetinaNet
-
-Results generalize to other pneumonia types.
 
 ---
 
@@ -88,7 +83,7 @@ See [the paper](https://doi.org/10.1101/2025.04.08.647710) for dataset specifics
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/alvaromoureupm/<repo-name>.git
+   git clone https://github.com/BYO-UPM/CT-COVID.git
    cd <repo-name>
    ```
 
@@ -170,10 +165,6 @@ For questions and collaborations, please contact:
 ---
 
 **Keywords:** Pneumonia | COVID-19 | Lung Lesion Localization | CT Scan | Explainable AI | Bayesian Deep Learning | Object Detection | Decision Support System
-
----
-
-*For further details, implementation, and visualizations, read the full preprint and explore the code and notebooks provided in this repository.*
 
 ---
 
