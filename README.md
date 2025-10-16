@@ -4,6 +4,7 @@
 **Correspondence:** ignacio.godino@upm.es  
 **License:** CC-BY-NC 4.0 International  
 **bioRxiv Preprint:** [doi:10.1101/2025.04.08.647710](https://doi.org/10.1101/2025.04.08.647710)
+**IEEE Access:** [10.1109/ACCESS.2025.3607282](https://ieeexplore.ieee.org/abstract/document/11153418)
 
 ## Overview
 
@@ -143,9 +144,9 @@ If you use this work, please cite:
 @article{moureprado2025bayesian,
   author    = {Álvaro Moure Prado, Alejandro Guerrero-López, Julián D. Arias-Londoño, and Juan I. Godino-Llorente},
   title     = {Bayesian Screening and Explainable Localization of Lung Lesions from CT Scans},
-  journal   = {bioRxiv},
+  journal   = {IEEE Access},
   year      = {2025},
-  doi       = {10.1101/2025.04.08.647710}
+  doi       = {10.1109/ACCESS.2025.3607282}
 }
 ```
 
