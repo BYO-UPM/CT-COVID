@@ -1,4 +1,4 @@
-# Bayesian Screening and Explainable Localization of Lung Lesions from CT Scans
+# Bayesian automatic screening of pneumonia and lung lesions localization from CT scans
 
 **Author:** Álvaro Moure Prado  
 **Correspondence:** ignacio.godino@upm.es  
@@ -10,8 +10,8 @@
 
 This repository accompanies the paper:
 
-> **Bayesian Screening and Explainable Localization of Lung Lesions from CT Scans**  
-> *Álvaro Moure Prado et al., bioRxiv, April 2025*
+> **Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach**  
+> *Álvaro Moure Prado et al., IEEE Access, October, 2025*
 
 ### Abstract
 
@@ -143,7 +143,7 @@ If you use this work, please cite:
 ```bibtex
 @article{moureprado2025bayesian,
   author    = {Álvaro Moure Prado, Alejandro Guerrero-López, Julián D. Arias-Londoño, and Juan I. Godino-Llorente},
-  title     = {Bayesian Screening and Explainable Localization of Lung Lesions from CT Scans},
+  title     = {Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach},
   journal   = {IEEE Access},
   year      = {2025},
   doi       = {10.1109/ACCESS.2025.3607282}
